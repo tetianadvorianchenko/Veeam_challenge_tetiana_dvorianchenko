@@ -1,4 +1,4 @@
-# Celonis test automation challenge
+# Veeam test automation challenge
 
 Using Selenium WebDriver, please do the following: 
 - Open https://cz.careers.veeam.com/vacancies and maximize the browser window.
